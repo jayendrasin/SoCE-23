@@ -6,7 +6,7 @@ const Arush = () => {
     <div className="blog">
       <div className="row blog-row">
         <div className="col-md-4">
-          <div 
+          <div
             style={{
               height: "auto",
               width: "auto",
@@ -14,21 +14,21 @@ const Arush = () => {
               display: "flex",
               justifyContent: "center",
               alignItems: "center",
-              borderRadius: "15px"
+              borderRadius: "15px",
             }}
-        >
+          >
             <img
-            src="placement-postulates/dp/Arush-Kumar-Rai.jpg"
-            style={{ 
+              src="placement-postulates/dp/Arush-Kumar-Rai.jpg"
+              style={{
                 height: "100%",
                 width: "100%",
                 borderRadius: "15px",
                 objectFit: "cover",
-                objectPosition: "centre middle"
-            }}
-             alt="Arush"
+                objectPosition: "centre middle",
+              }}
+              alt="Arush"
             />
-        </div>
+          </div>
         </div>
         <div className="col-md-8">
           <div className="blog-head">
@@ -50,9 +50,10 @@ const Arush = () => {
             </p>
           </div>
         </div>
-        <img class="blog-image-right" 
-         src="placement-postulates/blogs/Arush-Kumar-Rai/1.jpg"
-         alt="Arush"
+        <img
+          class="blog-image-right"
+          src="placement-postulates/blogs/Arush-Kumar-Rai/1.jpg"
+          alt="Arush"
         />
         <div className="row blog-row">
           <div className="col-md-12">
@@ -90,11 +91,12 @@ const Arush = () => {
         <br />
         <br />
         <br />
-        <img class="blog-image-right" 
-         src="placement-postulates/blogs/Arush-Kumar-Rai/2.jpg" 
-         alt = "Arush" 
-         />         
-         <div className="row blog-row">
+        <img
+          class="blog-image-right"
+          src="placement-postulates/blogs/Arush-Kumar-Rai/2.jpg"
+          alt="Arush"
+        />
+        <div className="row blog-row">
           <div className="col-md-12">
             <h3>Opportunities for Civil Core in SPO Placement Drive</h3>
             <p>
@@ -118,11 +120,12 @@ const Arush = () => {
             </p>
           </div>
         </div>
-        <img class="blog-image-left"
-         style={{ height:"300px", width:"20%"}}
-         src="placement-postulates/blogs/Arush-Kumar-Rai/3.jpg" 
-         alt = "Arush"
-         />
+        <img
+          class="blog-image-left"
+          style={{ height: "300px", width: "20%" }}
+          src="placement-postulates/blogs/Arush-Kumar-Rai/3.jpg"
+          alt="Arush"
+        />
         <div className="row blog-row">
           <div className="col-md-12">
             <h3>The Shortlisting Journey</h3>
@@ -181,9 +184,10 @@ const Arush = () => {
             </p>
           </div>
         </div>
-        <img class="blog-image-right" 
-        src="placement-postulates/dp/Arush-Kumar-Rai.jpg" 
-        alt="Arush"
+        <img
+          class="blog-image-right"
+          src="placement-postulates/dp/Arush-Kumar-Rai.jpg"
+          alt="Arush"
         />
         <div className="row blog-row">
           <div className="col-md-12">
@@ -237,9 +241,11 @@ const Arush = () => {
             </p>
           </div>
         </div>
-        <img class="blog-image-right" 
-        src="placement-postulates/blogs/Arush-Kumar-Rai/4.jpg" 
-        alt="Arush" />
+        <img
+          class="blog-image-right"
+          src="placement-postulates/blogs/Arush-Kumar-Rai/4.jpg"
+          alt="Arush"
+        />
         <div className="row blog-row">
           <div className="col-md-12">
             <h3>Navigating the Placement Journey with Wingmates & Friends</h3>
@@ -267,7 +273,7 @@ const Arush = () => {
               on your support system and being there for others can make all the
               difference in successfully navigating the placement journey. Do
               help others for no reason, do favors, be kind to everyone (who
-              deserves). Thank You
+              deserves). Thank You!
             </p>
           </div>
         </div>
