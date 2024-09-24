@@ -139,33 +139,25 @@ export default function Strength() {
                 </div>
               </div>
             </div>
-
             <div className="str-card col-md-3">
               <h1 className="text-center">Strengths'24</h1>
-              <div className="row d-flex justify-content-center">
+              <div className="row d-flext justify-content-center">
                 <div className="col">
-                  <button className="str-btn">Download</button>
+                  <a
+                    href="https://drive.google.com/file/d/1HUqoCZ-sqmppWxT_-BCdGLFtBlW79did/view"
+                    download
+                  >
+                    <button className="str-btn">Download</button>
+                  </a>
                 </div>
                 <div className="col">
-                  <button className="str-btn" onClick={handleOpenPopup24}>
-                    Open
-                  </button>
+                  <a
+                    href="https://drive.google.com/file/d/1HUqoCZ-sqmppWxT_-BCdGLFtBlW79did/view"
+                    target="_blank"
+                  >
+                    <button className="str-btn">Open</button>
+                  </a>
                 </div>
-                {popup24 ? (
-                  <div className="main">
-                    <div className="popup">
-                      <div className="popup-header">
-                        <h1>Strengths'24</h1>
-                        <img src={close} onClick={handleClosePopup24} alt="" />
-                      </div>
-                      <div>
-                        <p className="pop">COMING SOON</p>
-                      </div>
-                    </div>
-                  </div>
-                ) : (
-                  ""
-                )}
               </div>
             </div>
           </div>
