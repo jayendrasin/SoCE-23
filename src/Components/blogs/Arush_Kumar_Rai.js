@@ -273,7 +273,7 @@ const Arush = () => {
               on your support system and being there for others can make all the
               difference in successfully navigating the placement journey. Do
               help others for no reason, do favors, be kind to everyone (who
-              deserves). Thank You!
+              deserves). Thank You.
             </p>
           </div>
         </div>
