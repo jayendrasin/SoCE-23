@@ -1,6 +1,20 @@
 // cardData.js
 const cardData = [
   {
+    title: "Freshers 2k24",
+    imageSrc: "/Gallery/Headers/Freshers24post.png",
+    description:
+      "We were thrilled to organize Freshers '24 for the first year UGs and PGs of Civil Engineering, marking another milestone in welcoming new students with great enthusiasm.",
+    slides: [
+      "/Gallery/Freshers-24/01.jpg",
+      "/Gallery/Freshers-24/02.jpg",
+      "/Gallery/Freshers-24/03.jpg",
+      "/Gallery/Freshers-24/04.jpg",
+      "/Gallery/Freshers-24/05.jpg",
+      "/Gallery/Freshers-24/06.jpg",
+    ],
+  },
+  {
     title: "Freshers 2k23",
     imageSrc: "/Gallery/Headers/Fresherspost.png",
     description:
