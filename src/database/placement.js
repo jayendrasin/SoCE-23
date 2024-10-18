@@ -1,37 +1,6 @@
 import shubham from "../Components/Assets/shubham.webp";
 import Utkarsh_Sri from "../Components/Assets/Utkarsh_Sri.webp";
-import Sameer_Khan from "../Components/Assets/Sameer_Khan.png";
 var chats = [
-  {
-    name: "Narendra Prajapat",
-    work: "Future First",
-    text: "Hi, I am Narendra Prajapat, a market analyst at Futures First. For me, it was effective communication and confidence that made all the difference.",
-    dp: "placement-postulates/blogs/Narendra-prajapat/1.jpg",
-    link: "/narendra",
-    thumbnail: "",
-    og: "/narendra",
-    year: "",
-  },
-  {
-    name: "Prajakta Kapre(Y22)",
-    work: "HILTI",
-    text: " Hi everyone I am Prajakta Kapre, currently placed in HILTI company in the Value Engineering hub as Technical Engineer-1.",
-    dp: "placement-postulates/dp/Prajakta.png",
-    link: "/Prajakta",
-    thumbnail: "",
-    og: "/Prajakta",
-    year: "y22",
-  },
-  {
-    name: "Sameer Khan (Y20)",
-    work: "Data Analyst at ICICI Bank",
-    text: "Hii! I am Sameer, and an apt way to describe myself will be the term ‘Y20 from Civil’. Before beginning my whole journey, let me pen down the expectations which I have had before entering IITK",
-    dp: Sameer_Khan,
-    link: "/sameer",
-    thumbnail: "",
-    og: "/sameer",
-    year: "y20",
-  },
   {
     name: "Utkarsh Srivastava (Y20)",
     work: "Data Analyst at ICICI Bank",
@@ -71,6 +40,25 @@ var chats = [
     thumbnail: "",
     og: "/Ajeet_kushwaha_Y20",
     year: "y20",
+  }, {
+    name: "Prajakta Kapre(Y22)",
+    work: "HILTI",
+    text: " Hi everyone I am Prajakta Kapre, currently placed in HILTI company in the Value Engineering hub as Technical Engineer-1.",
+    dp: "placement-postulates/dp/Prajakta.png",
+    link: "/Prajakta",
+    thumbnail: "",
+    og: "/Prajakta",
+    year: "y22",
+  },
+  {
+    name: "Miska Singh(Y22)",
+    work: "Accenture AI",
+    text: " Hello everyone! This is Miska Singh, currently working as a Decision Science Analyst at Accenture AI. As a member of the Y22 batch, I specialized in Transportation Engineering.",
+    dp:"placement-postulates/dp/Miska-Singh.jpg",
+    link: "/Miska",
+    thumbnail: "",
+    og: "/Miska",
+    year: "y22",
   },
   {
     name: "Ashish (Y19)",
@@ -433,6 +421,7 @@ var chats = [
     og: "Jeetendra_Kumar_Patel",
     year: "y16",
   },
+ 
 ];
 
 export default chats;
