@@ -1,4 +1,4 @@
-.blog{
+.blog {
     padding: 1%;
     margin: 1%;
     background-color: rgba(222, 226, 231, 0.5);
@@ -8,34 +8,46 @@
     border-radius: 10px;
     font-size: 13px;
 }
+
 .blog img {
     border-radius: 15px;
     border: .5px solid #a3a3a3;
 }
-.blog-head{
+
+.blog-head {
     margin-top: 100px;
 }
-.blog-head h2{
+
+.blog-head h2 {
     margin-bottom: 0;
     font-size: 60px;
     /* font-weight: 500; */
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.blog-head small{
+
+.blog-head small {
     font-size: 20px;
 }
-.blog-dp{
+
+.blog-dp {
     background-color: #000;
 }
-.blog-row{
+
+.blog-row {
     /* height: 20vh; */
     padding: 1%;
 }
-.blog-dp{
+
+.blog-dp {
     height: 300px;
     width: 100%;
 }
-.blog-image-right{
+.blog-dp-Miska{
+    height: 100%;
+    width: 300px;
+}
+
+.blog-image-right {
     float: right;
     height: 300px;
     width: 300px;
@@ -43,7 +55,8 @@
     margin-top: 1%;
     margin-bottom: 1%;
 }
-.blog-image-left{
+
+.blog-image-left {
     float: left;
     height: 300px;
     width: 300px;
@@ -51,6 +64,7 @@
     margin-top: 1%;
     margin-bottom: 1%;
 }
+
 .resume-link {
     display: inline-block;
     background-color: whitesmoke;
@@ -62,7 +76,7 @@
 }
 
 .resume-link:hover {
-    background-color:white;
+    background-color: white;
 }
 
 @media screen and (max-width: 767px) {
@@ -77,12 +91,10 @@
         display: block;
         height: 250px;
         width: 90%;
-         margin-bottom: 10px;
-        
+        margin-bottom: 10px;
     }
 
     .blog-row {
         padding: 5px;
-        
     }
 }

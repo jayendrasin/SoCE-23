@@ -51,8 +51,8 @@ import Ayush_Dwivedi from './Components/blogs/Ayush_Dwivedi';
 import Ashish_Singh from './Components/blogs/Ashish_Singh';
 import Ajeet_Kushwaha from './Components/blogs/Ajeet_kushwaha_Y20';
 import Prajakta_Kapre from './Components/blogs/Prajakta_Kapre';
+import Miska_Singh from './Components/blogs/Miska_Singh';
 import Gallery from './Components/Gallery/Gallery';
-import Narendra_prajapat from './Components/blogs/Narendra_prajapat';
 
 function App() {
   return (
@@ -104,6 +104,7 @@ function App() {
         <Route path="/neha" element={<Neha_Aggarwal />}></Route>
         <Route path="/piyush" element={<Piyush_Senwar />}></Route>
         <Route path="/Prajakta" element={<Prajakta_Kapre />}></Route>
+        <Route path="/Miska" element={<Miska_Singh/>}></Route>
         <Route path="/rahul" element={<Rahul_Gauriyar />}></Route>
         <Route path="/rajat" element={<Rajat_Ghoshal />}></Route>
         <Route path="/samyak" element={<Samyak_Jain />}></Route>
@@ -114,8 +115,8 @@ function App() {
         <Route path="/vishal" element={<Vishal_Agarwal />}></Route>
         <Route path="/yashkrit" element={<Yashkrit_Gupta />}></Route>
         <Route path="/yashvardhan" element={<Yashvardhan_Raizada />}></Route>
-        <Route path="/narendra" element={<Narendra_prajapat />}></Route>
       </Routes>
+
 
       <Footer />
     </div>
