@@ -12,14 +12,14 @@ var team25 = [
       image: "/team/team23/priyanka-ghosh-iitk.jpg",
     },
     {
-      name: "Prof.",
+      name: "Prof.Chunendra Sahu",
       post: "Faculty Adivsor",
       fb: "https://www.facebook.com/profile.php?id=100005799362676",
       insta: "https://www.instagram.com/govind_gupta_46/",
       linkedin: "https://www.linkedin.com/in/chunendra-k-sahu-b90aa33a",
       website: "https://www.iitk.ac.in/new/chunendra-k-sahu",
       mail: "mailto:cksahu@iitk.ac.in",
-      image: "/team/team24/Design_HarshaSharma.jpg",
+      image: "/team/team23/cksahu.jpg",
     },
   ],
   [
