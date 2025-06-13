@@ -19,7 +19,7 @@ var team25 = [
       linkedin: "https://www.linkedin.com/in/chunendra-k-sahu-b90aa33a",
       website: "https://www.iitk.ac.in/new/chunendra-k-sahu",
       mail: "mailto:cksahu@iitk.ac.in",
-      image: "/team/team25/Subhadip Das_Faculty Advisor.jpg",
+      image: "/team/team25/Subhadip_Das_Faculty_Advisor.jpg",
     },
   ],
   [
