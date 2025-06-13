@@ -25,7 +25,7 @@ var team25 = [
   [
     {
       id: "1",
-      name: "Pranay",
+      name: "Pranay Saxena",
       post: " Events",
       fb: "https://www.facebook.com/profile.php?id=100006906991000&mibextid=ZbWKwL",
       insta: "https://www.instagram.com/pranay_s22/",
