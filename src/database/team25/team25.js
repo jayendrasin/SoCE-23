@@ -51,7 +51,7 @@ var team25 = [
       insta: "https://www.instagram.com/varsha_20_13?igsh=MTF1Z2t2NnRodnNxdQ==",
       linkedin: "https://www.linkedin.com/in/himavarsha-kotnana?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       mail: "mailto:hkotnana23@iitk.ac",
-      image: "/team/team25/Himavarsha Kotnana_Design.jpg",
+      image: "/team/team25/Himavarsha_Kotnana_Design.jpg",
     },
     {
       id: "5",
