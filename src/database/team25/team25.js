@@ -106,7 +106,6 @@ var team25 = [
     linkedin: "https://www.linkedin.com/in/jayendra-singh-51b001322",
     mail: "mailto:jayendras24@iitk.ac.in",
     image: "/team/team25/Jayendra_Web.jpeg"
-    
   },
   {
     id: "2",
@@ -117,7 +116,6 @@ var team25 = [
     linkedin: "https://www.linkedin.com/in/nikhil-prajapati-15bbab298",
     mail: "mailto:nikhilr24@iitk.ac.in",
     image: "/team/team25/Nikhil_Web.jpeg"
-    
   },
   {
     id: "3",
@@ -128,7 +126,6 @@ var team25 = [
     linkedin: "https://www.linkedin.com/in/pampana-sashank-0a8844365",
     mail: "mailto:sashankp24@iitk.ac.in",
     image: "/team/team25/Sashank_Web.jpg"
-    
   },
   {
     id: "4",
@@ -289,7 +286,6 @@ var team25 = [
     linkedin: "https://www.linkedin.com/in/bishwas-kumar-991431126",
     mail: "mailto:bishwas24@iitk.ac.in",
     image: "/team/team25/Bishwas_MF.jpeg"
-    
   },
   {
     id: "20",
@@ -300,7 +296,6 @@ var team25 = [
     linkedin: "https://www.linkedin.com/in/aditi-sahu911",
     mail: "mailto:aditisahu24@iitk.ac.in",
     image: "/team/team25/Aditi_MF.jpg"
-   
   }
 ],
 ];
