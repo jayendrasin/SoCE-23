@@ -29,11 +29,11 @@ const Suraj = () => {
             </p>
           </div>
         </div>
-        <img
+        {/* <img
           class="blog-image-right"
           src="/placement-postulates/blogs/Utkrash-Srivastava/1.jpg"
           alt="Suraj"
-        />
+        /> */}
 
         <div className="row blog-row">
           <div className="col-md-12">
@@ -83,11 +83,11 @@ const Suraj = () => {
         <br />
         <br />
         <br />
-        <img
+        {/* <img
           class="blog-image-right"
           src="/placement-postulates/blogs/Utkrash-Srivastava/2.jpg"
           alt="Suraj"
-        />
+        /> */}
         <div className="row blog-row">
           <div className="col-md-12">
             <h3>Resume Building and Skill</h3>
@@ -113,11 +113,11 @@ const Suraj = () => {
             </p>
           </div>
         </div>
-        <img
+        {/* <img
           class="blog-image-left"
           src="/placement-postulates/blogs/Utkrash-Srivastava/3.jpg"
           alt="Suraj"
-        />
+        /> */}
         <div className="row blog-row">
           <div className="col-md-12">
             <h3>Interview Shortlist</h3>
@@ -147,11 +147,11 @@ const Suraj = () => {
             </p>
           </div>
         </div>
-        <img
+        {/* <img
           class="blog-image-right"
           src="/placement-postulates/blogs/Utkrash-Srivastava/4.jpg"
           alt="Suraj"
-        />
+        /> */}
         <div className="row blog-row">
           <div className="col-md-12">
             <h3>D-DAY</h3>
@@ -184,11 +184,11 @@ const Suraj = () => {
             
           </div>
         </div>
-        <img
+        {/* <img
           class="blog-image-right"
           src="/placement-postulates/blogs/Utkrash-Srivastava/5.jpg"
           alt="Suraj"
-        />
+        /> */}
         <div className="row blog-row">
           <div className="col-md-12">
             <h3>Friends, Hero of this Complete Story</h3>
