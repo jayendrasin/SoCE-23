@@ -1,7 +1,7 @@
 var team25 = [
   [
     {
-      name: "Prof. Priyank Ghosh",
+      name: "Prof. Priyanka Ghosh",
       post: "HOD",
       fb: "https://www.facebook.com/profile.php?id=100005799362676",
       insta: "https://www.instagram.com/govind_gupta_46/",
