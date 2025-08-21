@@ -163,8 +163,8 @@ export default function Footer() {
               <ul className="footer-links">
                 <li>
                   {" "}
-                  <a href="tel:+91 7906379797">
-                    Phone no.: +91 7906379797
+                  <a href="tel:+91 9686304528">
+                    Phone no.: +91 9686304528
                   </a>{" "}
                 </li>
                 <li>
