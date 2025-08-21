@@ -208,7 +208,7 @@ var team25 = [
     insta: "https://www.instagram.com/alurihyndavi/",
     linkedin: "https://www.linkedin.com/in/hyndavi-sai-aluri-58a944367",
     mail: "mailto:alurih24@iitk.ac.in",
-    image: "/team/team25/Hyndavi_MF.jpg"
+    image: "/team/team25/Hyndavi_MF.jpeg"
   },
   {
     id: "12",
