@@ -298,6 +298,7 @@ var team25 = [
     image: "/team/team25/Aditi_MF.jpg"
   }
 ],
+
 ];
 
 module.exports = team25;
