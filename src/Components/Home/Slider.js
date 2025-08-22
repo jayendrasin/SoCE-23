@@ -76,19 +76,19 @@ export default function Slider() {
                                     <i id='p' onClick={customp} className="fa fa-angle-left"></i>
                                 </div> */}
                 <div className="col-lg-4 col-md-12 slider-image-container">
-                  <img id="img" src={img[0]}></img>
+                  {/* <img id="img" src={img[0]}></img> */}
                 </div>
                 <div className="col-lg-8 col-md-12">
                   <div className="container-fluid">
                     <div className="white">
                       <div className="row ">
                         <div className="col">
-                          <h1 id="slider-heading">{content[0][1]}</h1>
+                          {/* <h1 id="slider-heading">{content[0][1]}</h1> */}
                         </div>
                       </div>
                       <div className="row ">
                         <div className="col">
-                          <h5 id="slider-date">{content[0][2]}</h5>
+                          {/* <h5 id="slider-date">{content[0][2]}</h5> */}
                         </div>
                       </div>
                       <div className="row ">
@@ -109,9 +109,9 @@ export default function Slider() {
                               marginBottom: "10px",
                             }}
                           >
-                            <div id="y" style={{ maxWidth: "100%" }}>
+                            {/* <div id="y" style={{ maxWidth: "100%" }}>
                               {content[0][0]}{" "}
-                            </div>{" "}
+                            </div>{" "} */}
                           </div>
                         </div>
                         <div className="row readmore">
