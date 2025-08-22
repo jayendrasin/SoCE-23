@@ -97,8 +97,208 @@ var team25 = [
     },
   ],
   [
-  ],
-];
+  {
+    id: "1",
+    name: "JAYENDRA SINGH",
+    post: "Web",
+    fb: "",
+    insta: "https://www.instagram.com/the_majestic_jatin_27/?__pwa=1#",
+    linkedin: "https://www.linkedin.com/in/jayendra-singh-51b001322",
+    mail: "mailto:jayendras24@iitk.ac.in",
+    image: "/team/team25/Jayendra_Web.jpeg"
+  },
+  {
+    id: "2",
+    name: "NIKHIL KUMAR",
+    post: "Web",
+    fb: "",
+    insta: "nikhilprajapati-21",
+    linkedin: "https://www.linkedin.com/in/nikhil-prajapati-15bbab298",
+    mail: "mailto:nikhilr24@iitk.ac.in",
+    image: "/team/team25/Nikhil_Web.jpeg"
+  },
+  {
+    id: "3",
+    name: "PAMPANA SASHANK",
+    post: "Web",
+    fb: "",
+    insta: "sashankp_06",
+    linkedin: "https://www.linkedin.com/in/pampana-sashank-0a8844365",
+    mail: "mailto:sashankp24@iitk.ac.in",
+    image: "/team/team25/Sashank_Web.jpg"
+  },
+  {
+    id: "4",
+    name: "Y KRISHNA POOJITHA",
+    post: "Finance and Marketing",
+    fb: "",
+    insta: "https://www.instagram.com/ykpoojitha_1306",
+    linkedin: "https://www.linkedin.com/in/krishna-poojitha-yadavalli-19293b330",
+    mail: "mailto:ykrishnap24@iitk.ac.in",
+    image: "/team/team25/Krishna_MF.jpg"
+  },
+  {
+    id: "5",
+    name: "SHIVA SRI SARKANI",
+    post: "Design",
+    fb: "Shiva sri",
+    insta: "https://www.instagram.com/shiva_sri9/",
+    linkedin: "https://www.linkedin.com/in/shiva-sri-401258378",
+    mail: "mailto:shivasri24@iitk.ac.in",
+    image: "/team/team25/Shiva_Design.jpg"
+  },
+  {
+    id: "6",
+    name: "ARNAB PATRA",
+    post: "Events",
+    fb: "",
+    insta: "https://www.instagram.com/arnab77_/",
+    linkedin: "https://www.linkedin.com/in/arnab-patra-056b9532b",
+    mail: "mailto:arnabt24@iitk.ac.in",
+    image: "/team/team25/Arnab_Event.jpg"
+  },
+  {
+    id: "7",
+    name: "YASH SONI",
+    post: "Event",
+    fb: "https://www.facebook.com/profile.php?id=100071227735973",
+    insta: "https://www.instagram.com/soni2006yash/",
+    linkedin: "https://in.linkedin.com/in/yash-soni-905016331",
+    mail: "mailto:yashs24@iitk.ac.in",
+    image: "/team/team25/Yash_Event.jpg"
+  },
+  {
+    id: "8",
+    name: "MEHAR FATIMA",
+    post: "Finance and Marketing",
+    fb: "",
+    insta: "https://www.instagram.com/meharfatima05/",
+    linkedin: "https://www.linkedin.com/in/mehar-fatima-490b27220",
+    mail: "mailto:meharf24@iitk.ac.in",
+    image: "/team/team25/Mehar_MF.jpg"
+  },
+  {
+    id: "9",
+    name: "GIRISH BHOJWANI",
+    post: "Media and Content",
+    fb: "",
+    insta: "https://www.instagram.com/girish.iitk/",
+    linkedin: "https://www.linkedin.com/in/girish-bhojwani-b1315a323",
+    mail: "mailto:girishb24@iitk.ac.in",
+    image: "/team/team25/Girish_Media.jpg"
+  },
+  {
+    id: "10",
+    name: "VIHAN PUROHIT",
+    post: "Design",
+    fb: "",
+    insta: "https://www.instagram.com/vihanpurohit_03/",
+    linkedin: "",
+    mail: "mailto:vihanp24@iitk.ac.in",
+    image: "/team/team25/Vihan_Design.jpg"
+  },
+  {
+    id: "11",
+    name: "ALURI HYNDAVI SAI",
+    post: "Finance and Marketing",
+    fb: "",
+    insta: "https://www.instagram.com/alurihyndavi/",
+    linkedin: "https://www.linkedin.com/in/hyndavi-sai-aluri-58a944367",
+    mail: "mailto:alurih24@iitk.ac.in",
+    image: "/team/team25/Hyndavi_MF.jpeg"
+  },
+  {
+    id: "12",
+    name: "CHITRANK SINGH SHEKHAWAT",
+    post: "Events",
+    fb: "",
+    insta: "https://www.instagram.com/_.itz_chiku_/",
+    linkedin: "",
+    mail: "mailto:chitranks24@iitk.ac.in",
+    image: "/team/team25/Chitrank_Event.jpg"
+  },
+  {
+    id: "13",
+    name: "SAKSHAM",
+    post: "Events",
+    fb: "",
+    insta: "#",
+    linkedin: "https://www.linkedin.com/feed/",
+    mail: "mailto:saksham24@iitk.ac.in",
+    image: "/team/team25/Saksham_Event.jpg"
+  },
+  {
+    id: "14",
+    name: "KARTIKEY AGARWAL",
+    post: "Design",
+    fb: "Nope",
+    insta: "https://www.instagram.com/agarwal.k._/",
+    linkedin: "https://www.linkedin.com/in/kartikey-agarwal-48769b31b",
+    mail: "mailto:akartikey24@iitk.ac.in",
+    image: "/team/team25/Kartikey_Design.jpg"
+  },
+  {
+    id: "15",
+    name: "SRASHTI SINGH",
+    post: "Design",
+    fb: "",
+    insta: "https://www.instagram.com/srashtiiiii/",
+    linkedin: "https://www.linkedin.com/in/srashti-singh-4066a42b9",
+    mail: "mailto:srashtis24@iitk.ac.in",
+    image: "/team/team25/Srashti_Design.jpg"
+  },
+  {
+    id: "16",
+    name: "ANIRUDH KOSLEY",
+    post: "Marketing & Finance",
+    fb: "https://www.facebook.com/anirudh.kumar.5099/",
+    insta: "anirudh_kosley",
+    linkedin: "https://www.linkedin.com/in/anirudh-kosley-5b5397155",
+    mail: "mailto:anirudhk24@iitk.ac.in",
+    image: "/team/team25/Anirudh_MF.jpeg"
+  },
+  {
+    id: "17",
+    name: "SHAIK KAMOOSH BABA",
+    post: "Geoinformatics",
+    fb: "https://www.facebook.com/profile.php?id=100094720843708",
+    insta: "kamoosh_shaik",
+    linkedin: "https://www.linkedin.com/in/kamooshshaik",
+    mail: "mailto:kamooshsb24@iitk.ac.in",
+    image: "/team/team25/Kamoosh_Geo.jpg"
+  },
+  {
+    id: "18",
+    name: "JASMINE KHALKHO",
+    post: "Media and Content",
+    fb: "",
+    insta: "https://www.instagram.com/_j_as_mine/",
+    linkedin: "https://www.linkedin.com/in/jasminekhalkho",
+    mail: "mailto:jasmine24@iitk.ac.in",
+    image: "/team/team25/Jasmine_Media.jpg"
+  },
+  {
+    id: "19",
+    name: "BISHWAS KUMAR",
+    post: "Finance & Marketing",
+    fb: "https://www.facebook.com/vishwas.kumarmishra",
+    insta: "https://www.instagram.com/free4tech/",
+    linkedin: "https://www.linkedin.com/in/bishwas-kumar-991431126",
+    mail: "mailto:bishwas24@iitk.ac.in",
+    image: "/team/team25/Bishwas_MF.jpeg"
+  },
+  {
+    id: "20",
+    name: "ADITI SAHU",
+    post: "Marketing and Finance",
+    fb: "",
+    insta: "https://www.instagram.com/tashu_aditi/?__pwa=1#",
+    linkedin: "https://www.linkedin.com/in/aditi-sahu911",
+    mail: "mailto:aditisahu24@iitk.ac.in",
+    image: "/team/team25/Aditi_MF.jpg"
+  }
+],
 
+];
 
 module.exports = team25;
