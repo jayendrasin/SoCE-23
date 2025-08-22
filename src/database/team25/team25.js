@@ -115,7 +115,7 @@ var team25 = [
     insta: "nikhilprajapati-21",
     linkedin: "https://www.linkedin.com/in/nikhil-prajapati-15bbab298",
     mail: "mailto:nikhilr24@iitk.ac.in",
-    image: "/team/team25/Nikhil_web.jpeg"
+    image: "/team/team25/Nikhil_web.png"
   },
   {
     id: "3",
