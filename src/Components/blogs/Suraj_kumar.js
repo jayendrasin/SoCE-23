@@ -9,7 +9,7 @@ const Suraj = () => {
         <div className="col-md-4">
           <img
             src={Suraj_K}
-            style={{ height: "315px", width: "90%" }}
+            style={{ height: "395px", width: "92%" }}
             alt="Suraj"
           ></img>
         </div>
@@ -136,7 +136,7 @@ const Suraj = () => {
           </div>
         </div>
 
-        <div className="row blog-row">
+        {/* <div className="row blog-row">
           <div className="col-md-12">
             <h3>Dark Realities in Placement Processes:</h3>
             <p>
@@ -146,7 +146,7 @@ const Suraj = () => {
              Also, don’t lose hope when shortlists start rolling out. It’s common to not see your name in the first few, but patience pays off. Keep taking tests, stay consistent, and don’t get frustrated. Once you’ve got a decent number of shortlists and feel confident about cracking at least one interview, you can afford to be selective. At that point, it’s okay to skip some tests for lower-paying jobs, but only if you’re really confident about your chances with the ones you already have.
             </p>
           </div>
-        </div>
+        </div> */}
         {/* <img
           class="blog-image-right"
           src="/placement-postulates/blogs/Utkrash-Srivastava/4.jpg"
