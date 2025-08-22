@@ -99,13 +99,13 @@ var team25 = [
   [
   {
     id: "1",
-    name: "JAYENDRA SINGH",
+    name: "Jayendra Singh",
     post: "Web",
     fb: "",
     insta: "https://www.instagram.com/the_majestic_jatin_27/?__pwa=1#",
     linkedin: "https://www.linkedin.com/in/jayendra-singh-51b001322",
     mail: "mailto:jayendras24@iitk.ac.in",
-    image: "/team/team25/Jayendra_Web.jpeg"
+    image: "/team/team25/Jayendra_web.jpeg"
   },
   {
     id: "2",
