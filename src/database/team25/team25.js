@@ -56,7 +56,7 @@ var team25 = [
     {
       id: "5",
       name: "S Neha Patel",
-      post: " Marketing & Finance ",
+      post: "Marketing & Finance ",
       fb: "https://www.facebook.com/share/19iCgNhmYC/",
       insta: "https://www.instagram.com/nehapatel_3405?igsh=Y2J6enVxcm9zNWVj",
       linkedin: "https://www.linkedin.com/in/shenkesi-neha-patel-a4276b289?",
