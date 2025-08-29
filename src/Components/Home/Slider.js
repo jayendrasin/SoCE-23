@@ -65,7 +65,7 @@ export default function Slider() {
       <div className="container slider-parent">
         <div className="row">
           <div className="col">
-            <h1 id="recent">Recent Activities</h1>
+            <h1 id="recent">Upcoming Activities</h1>
           </div>
         </div>
         <div className="row slider-row">
@@ -83,12 +83,12 @@ export default function Slider() {
                     <div className="white">
                       <div className="row ">
                         <div className="col">
-                          {/* <h1 id="slider-heading">{content[0][1]}</h1> */}
+                          { <h1 id="slider-heading">{content[0][1]}</h1> }
                         </div>
                       </div>
                       <div className="row ">
                         <div className="col">
-                          {/* <h5 id="slider-date">{content[0][2]}</h5> */}
+                          <h5 id="slider-date">{content[0][2]}</h5>
                         </div>
                       </div>
                       <div className="row ">
@@ -109,9 +109,9 @@ export default function Slider() {
                               marginBottom: "10px",
                             }}
                           >
-                            {/* <div id="y" style={{ maxWidth: "100%" }}>
+                            <div id="y" style={{ maxWidth: "100%" }}>
                               {content[0][0]}{" "}
-                            </div>{" "} */}
+                            </div>{" "}
                           </div>
                         </div>
                         <div className="row readmore">
