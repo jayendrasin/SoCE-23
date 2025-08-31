@@ -23,7 +23,7 @@ const content = [
   [
     "We have more activities in the pipeline that will be announced shortly. Keep checking this space for further information.",
     "Coming Soon",
-    "",
+    "...",
     "#"
   ],
 ];
