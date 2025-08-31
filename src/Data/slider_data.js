@@ -7,10 +7,10 @@ const content = [
   ],
 
   [
+    "With the onset of summer, the Society of Civil Engineers was pleased to introduce Summer Projects for both UG and PG civil engineering students. These projects were designed to offer students an opportunity to engage in innovative work and gain practical experience in their areas of interest. We curated a collection of exciting projects that captured their attention.",
+    "Summer Projects 2025",
     "",
-    "",
-    "",
-    "",
+    "https://drive.google.com/drive/folders/1mRabKkE9Wu8sk_P15ioLKm7D5ohstrxV",
   ],
   [
     "",
