@@ -7,10 +7,17 @@ const content = [
   ],
 
   [
+
+    "With the onset of summer, the Society of Civil Engineers was pleased to introduce Summer Projects for both UG and PG civil engineering students. These projects were designed to offer students an opportunity to engage in innovative work and gain practical experience in their areas of interest. We curated a collection of exciting projects that captured their attention.",
+    "Summer Projects 2025",
+    "",
+    "https://drive.google.com/drive/folders/1mRabKkE9Wu8sk_P15ioLKm7D5ohstrxV",
+=======
     "The Alumni Festival – PARWA (Postgraduate Alumni Reconnecting With Alma Mater) will be held on September 6, 2025, from 2:30 P.M. to 4:30 P.M. at FB 320. This event will bring our alumni back to campus to share their journeys and insights. It will give students a great opportunity to learn, network, and explore career opportunities. Alumni will share their valuable experiences, and participants will be able to engage in meaningful discussions. PARWA 2025 will strengthen the bond between our alumni and the institute, and we are looking forward to enthusiastic participation.",
     "Alumni Festival – PARWA 2025",
     "September 6, 2025",
     "#",
+
   ],
 
   [
@@ -30,10 +37,17 @@ const content = [
 
 // only 1st slide has image, rest are empty
 const img = [
+
+  "",
+  "",
+  "Post-photos/informal.jpeg",
+  "",
+=======
   "Post-photos/info.png",
   "",
   "",
   ""
+
 ];
 
 export { content, img };
