@@ -109,7 +109,7 @@ var team25 = [
   },
  {
     id: "2",
-    name: "Nikhil kumar",
+    name: "Nikhil Prajapati",
     post: "Web",
     fb: "",
     insta: "nikhilprajapati-21",
