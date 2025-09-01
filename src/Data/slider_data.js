@@ -26,10 +26,10 @@ const content = [
 ];
 
 const img = [
-  "Post-photos/alum.jpeg",
-  // "Post-photos/temple.png",
-  // "Post-photos/CAREER-CHOICES.png",
-  // "Post-photos/CE-CUP.png",
+  "",
+  "",
+  "Post-photos/informal.jpeg",
+  "",
 ];
 
 export { content, img };

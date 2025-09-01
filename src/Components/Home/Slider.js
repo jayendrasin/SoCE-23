@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import $ from "jquery";
 import { content, img } from "../../Data/slider_data";
+import "./slider.css";
 
 var a = 0;
 export default function Slider() {
@@ -76,7 +77,7 @@ export default function Slider() {
                                     <i id='p' onClick={customp} className="fa fa-angle-left"></i>
                                 </div> */}
                 <div className="col-lg-4 col-md-12 slider-image-container">
-                  {/* <img id="img" src={img[0]}></img> */}
+                  <img id="img" src={img[0]}></img>
                 </div>
                 <div className="col-lg-8 col-md-12">
                   <div className="container-fluid">
@@ -164,7 +165,7 @@ export default function Slider() {
             </div>
           </div>
 
-          {/* <div className='col-0.5'></div> */}
+          <div className='col-0.5'></div>
         </div>
         {/* <div className="row circles">
                     <div className="col">
