@@ -119,24 +119,26 @@ export default function Slider() {
                   </div>
                 </div>
 
-                <div className="col-1 arrow">
-                  <i id="f" onClick={customf} className="fa fa-angle-right"></i>
-                </div>
-              </div>
+               <div className="slider-container">
+  {/* Left Arrow */}
+  <div className="arrow left">
+    <i id="p" onClick={customp} className="fa fa-angle-left"></i>
+  </div>
 
-              <div className="row circles">
-                <div className="col">
-                  <i id="p" onClick={customp} className="fa fa-angle-left"></i>
-                  <i className="fa fa-circle-thin indicators" onClick={() => universal(0)}></i>
-                  <i className="fa fa-circle-thin indicators" onClick={() => universal(1)}></i>
-                  <i className="fa fa-circle-thin indicators" onClick={() => universal(2)}></i>
-                  <i className="fa fa-circle-thin indicators" onClick={() => universal(3)}></i>
-                  <i id="f" onClick={customf} className="fa fa-angle-right"></i>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+  {/* Your slide content goes here */}
+  <div className="slide-content">
+    {/* Example: */}
+    <img src={img[currentSlide]} alt="" />
+    <h2>{content[currentSlide][1]}</h2>
+    <p>{content[currentSlide][0]}</p>
+  </div>
+
+  {/* Right Arrow */}
+  <div className="arrow right">
+    <i id="f" onClick={customf} className="fa fa-angle-right"></i>
+  </div>
+</div>
+
 
         <div className="row my-4 getm">
           <div className="col-sm-9">
