@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import $ from "jquery";
 import { content, img } from "../../Data/slider_data";
-import "./slider.css";
+// import "./slider.css";
 
 var a = 0;
 export default function Slider() {
@@ -152,7 +152,7 @@ export default function Slider() {
                                 </div>
               </div>
               <div className="row circles">
-                <div className="col">
+                <div className="col" style={{ gap:"30px",display:"flex",justifyContent:"center",alignItems:"center" }}>
                   <i id="p" onClick={customp} className="fa fa-angle-left"></i>
                   <i className="fa fa-circle-thin indicators" onClick={i1}></i>
                   <i className="fa fa-circle-thin indicators" onClick={i2}></i>
